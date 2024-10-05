@@ -25,4 +25,6 @@ Clincal_Labs: Beginning for the 2015-16 season, reports from public health and c
 
 Public_Health_Labs: "Beginning for the 2015-16 season, reports from public health and clinical laboratories are presented separately in the weekly influenza update, FluView.  Data presented from public health laboratories include the weekly total number of specimens tested, the number of positive influenza tests, and the number by influenza virus type, subtype, and influenza B lineage.
 
+Google Trends: Beginning for the 2015-16 season, multiple datasets from Google Trends have been used to track search volume related to influenza. This dataset includes data on various flu-related keywords, such as symptoms, vaccines, and treatments, spanning from September 2015 to September 2024. The search trends provide insights into public interest, behavior, and seasonality patterns across different flu seasons, collected from multiple sources and compiled into CSV files for analysis.
+
 ILINet: PERCENTAGE OF VISITS FOR INFLUENZA-LIKE-ILLNESS REPORTED BY SENTINEL PROVIDERS
